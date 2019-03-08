@@ -13,3 +13,4 @@
 - git commit -m "note on what change"
 - git remote add origin path-to-repo
 - git push -u origin master
+- hi
